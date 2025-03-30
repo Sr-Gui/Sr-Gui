@@ -12,8 +12,8 @@ Sou estudante de **Matemática Aplicada e Computacional** na **UNICENTRO**, com 
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/Sr-Gui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Gui&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Gui&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
 
@@ -67,7 +67,7 @@ Sempre aberto para colaborações e projetos nas áreas de **Ciência de Dados, 
 
 ## ⚡ Fun Facts
 
-<p align="center"> 🦇 I'm Batman! | 🎮 Games(Soulslike, MOBA, xadrez) | 🤘 Rock | 🎻 Violino | 🥋 Judô | 🚀 Matemática, Física e Computação(de fusão nuclear a foguetes) | 👽 Em busca de conhecimento </p>
+<p align="center"> 🦇 I'm Batman! | 🎮 Games(Soulslike, MOBA, xadrez) | 🤘 Rock | 🎻 Violino | 🥋 Judô <br> 🚀 Matemática, Física e Computação(de fusão nuclear a foguetes) | 👽 Em busca de conhecimento </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sr-Gui/Sr-Gui/output/github-contribution-grid-snake-dark.svg">
