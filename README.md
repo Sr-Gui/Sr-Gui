@@ -6,8 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.souzarocha.ismart@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srguilherme/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/776191919876341780)  [![Lattes](https://img.shields.io/badge/Lattes-000080?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2189414809347318) 
 
   <a href="https://github.com/Sr-Gui">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Gui&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Gui&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 
 ## Tecnologias & Ferramentas  
