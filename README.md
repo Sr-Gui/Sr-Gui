@@ -9,12 +9,14 @@ Sou estudante de **Matemática Aplicada e Computacional** na **UNICENTRO**, com 
 🔹 Interesse em **Ciência de Dados, Machine Learning e Métodos Computacionais**  
 🔹 Experiência com **Programação, Modelagem Matemática, Análise de Dados e Pesquisa Operacional**  
 
+
 <div align="center">
   <a href="https://github.com/Sr-Gui">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sr-Gui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Gui&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
+
 
 ## 🛠️ Tecnologias & Ferramentas  
 
